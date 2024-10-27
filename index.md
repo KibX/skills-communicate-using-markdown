@@ -5,4 +5,6 @@
 
 ![Yaktocat the Destroyer of Worlds](https://octodex.github.com/images/yaktocat.png)
 
-Yaktocat the Destroyer of Worlds
+``` javascript
+var myVar = "Hello, world!";
+```
