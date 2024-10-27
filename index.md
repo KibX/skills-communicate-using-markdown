@@ -8,3 +8,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Awaken Yaktocat the Destroyer of Worlds
+- [ ] ...
+- [ ] Profit!
